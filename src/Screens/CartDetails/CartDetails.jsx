@@ -1,6 +1,6 @@
 //import Button from "../../components/Button"
 import { useSelector, useDispatch } from "react-redux";
-import CartItems from "./cartItems";
+import CartItems from "./CartItems"
 import { toggleStatusTab } from "../../store/cart";
 
 
