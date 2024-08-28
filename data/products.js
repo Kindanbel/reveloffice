@@ -1,0 +1,123 @@
+const product = [
+  {
+    id: 1,
+    image: "/images/officechair1 1.png",
+    title: "Herman Miller Aeron",
+    price: 189 ,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "herman-miller-aeron",
+  },
+  {
+    id: 2,
+    image: "/images/officechair2.jpg",
+    title: "Knoll ReGeneration",
+    price: 489,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "knoll-reGeneration",
+  },
+  {
+    id: 3,
+    image: "/images/officechair3 1.jpg",
+    title: "Gaming ErgoChair 2",
+    price: 399,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "gaming-ergochair-2",
+  },
+  {
+    id: 4,
+    image: "/images/officechair4.jpg",
+    title: "Furniture Group",
+    price: 139,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "furniture-group",
+  },
+  {
+    id: 5,
+    image: "/images/officechair5.jpg",
+    title: "SteelCase Leap",
+    price: 489,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "steelcase-leap",
+  },
+  {
+    id: 6,
+    image: "/images/officechair6.jpg",
+    title: "Layers Executive Chair",
+    price: 229,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "layers-executive-chair",
+  },
+  {
+    id: 7,
+    image: "/images/officechair7.jpg",
+    title: "Haworth Zody",
+    price: 189,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "haworth-zody",
+  },
+  {
+    id: 8,
+    image: "/images/officechair8.jpg",
+    title: "HON Ignition",
+    price: 119,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "hon-ignition",
+  },
+  {
+    id: 9,
+    image: "/images/officechair9 1.jpg",
+    title: "La-Z-Boy Bellamy",
+    price: 378,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+
+    slug: "laz-boy-bellamy",
+  },
+  {
+    id: 10,
+    image: "/images/officechair10.jpg",
+    title: "P9000 Ergonomic Mesh",
+    price: 467,
+    text: "Elevate your seating experience with our curated collection of premium chair designed for ultimate comfort and style",
+    name: "CASTOR TYPE",
+    option1: "Hard (for Soft Floors)",
+    option2: "Soft (for Hard Floors)",
+    slug: "p9000-ergonomic-mush",
+  },
+];
+
+export default product;

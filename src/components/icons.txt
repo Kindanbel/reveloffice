@@ -1,0 +1,14 @@
+import { PiShoppingCart } from "react-icons/pi";
+<PiShoppingCart />
+
+user : import { AiOutlineUser } from "react-icons/ai";
+<AiOutlineUser />
+
+chair: import { PiChairThin } from "react-icons/pi";
+<PiChairThin />
+
+filter:import { CiFilter } from "react-icons/ci";
+<CiFilter />
+
+price: import { IoPricetagOutline } from "react-icons/io5";
+<IoPricetagOutline />
