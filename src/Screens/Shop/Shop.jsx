@@ -1,4 +1,4 @@
-import ShopHero from "../../ui/shophero";
+import ShopHero from "../../ui/ShopHero";
 import ShopProduct from "../../ui/ShopProduct";
 
 const Shop = () => {
